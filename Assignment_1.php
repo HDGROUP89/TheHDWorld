@@ -1,5 +1,5 @@
 <?php
-$a = 'dofv4sdfdse5dfgvldf';
+$a = 'dofv4sdfdse5dfgvldf'; //find the word love
 
 	if(1<=strlen($a) && strlen($a)<=100)
 	{
