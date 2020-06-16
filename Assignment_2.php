@@ -1,6 +1,6 @@
 <?php 
 
-function binarycheck($bin_num,$con_num)
+function binarycheck($bin_num,$con_num)//two element
 {   
     if(!empty($bin_num))
 	{
